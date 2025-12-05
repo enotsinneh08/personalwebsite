@@ -1,0 +1,97 @@
+@charset "utf-8";
+.container {
+    width: 100%;
+}
+.imagediv {
+    display: block;
+    width: 100%;
+}
+.nav {
+    width: 20%;
+    float: left;
+    display: block;
+    background-color: #BA0C2F;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    text-decoration: none;
+    color: #FCFCFC;
+    font-size: large;
+}
+.textdiv {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: large;
+    color: #797979;
+    background-color: #090909;
+    width: 80%;
+}
+.textdiv {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: small;
+    color: #FBFBFB;
+    width: 80%;
+}
+.footer {
+    color: #FBFBFB;
+    text-shadow: 0px 0px #FFFFFF;
+    background-color: #FFFFFF;
+}
+.footer {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 10px;
+    color: #333;
+    text-align: center;
+}
+.image {
+    text-align: center;
+}
+.poster {
+    text-align: left;
+}
+.menu {
+    position: relative;
+    left: auto;
+}
+.business {
+    text-align: center;
+}
+.business {
+    text-align: center;
+}
+.business {
+    text-align: right;
+    position: absolute;
+}
+.picture {
+    text-align: center;
+}
+.imagedivmtn {
+    text-align: center;
+}
+.edutext {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.profilepic {
+    text-align: center;
+}
+.email {
+    display: block;
+}
+.container table {
+    font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+}
+.contacttable {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    top: 50px;
+    bottom: 50px;
+    color: #F8F5F6;
+    font-variant: normal;
+    font-size: large;
+    letter-spacing: 2px;
+    text-shadow: 0px 0px;
+    background-color: #BA0C2F;
+}
+.container .contacttable table tbody tr td div div p a {
+    font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+}
